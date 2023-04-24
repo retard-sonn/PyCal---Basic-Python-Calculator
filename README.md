@@ -6,8 +6,7 @@ PyCal - A basic calculator made using Python.
      ° Colorama
      ° Art
 
-# This is my first official Python program
-made using simple algorithms.
+## This is my first official Python program made using simple algorithms.
 
 # Scripted by : Abraar | @retard.sonn
 
